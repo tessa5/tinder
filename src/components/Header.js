@@ -24,8 +24,8 @@ function Header({backButton}) {
             )}
             
             <Link to='/'>
-                <img className='w-24'
-                    src="https://1000logos.net/wp-content/uploads/2018/07/Tinder-logo-700x394.png" 
+                <img className='w-28 h-16'
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXfewjDmd3MOkO9EutLhkJVezdbcEvc8sMlZXc9BE0QPPA6w2Lm6s7jRubMH7V-jOXXhk&usqp=CAU" 
                     alt="tinder logo"/>
             </Link>
             <Link to='/chat'>
